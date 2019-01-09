@@ -1,4 +1,7 @@
 # Experimetrics BITSS Workshop
+
+##This is my new read me, its better than yours
+
 Resources for the workshop on dynamic documents at Universidad del Rosario
 
 ---
