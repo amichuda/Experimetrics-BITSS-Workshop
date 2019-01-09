@@ -1,6 +1,6 @@
 # Experimetrics BITSS Workshop
 
-##This is my new read me, its better than yours
+##This is my new read me, its better than yours :v
 
 Resources for the workshop on dynamic documents at Universidad del Rosario
 
