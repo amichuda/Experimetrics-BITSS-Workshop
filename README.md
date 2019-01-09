@@ -1,8 +1,14 @@
 # Experimetrics BITSS Workshop
+
+
+## THIS IS MY TRIAL README, I WANT TO LEARN HOW TO BRANCH
+
+
 zcxvaxcbzcscvbczcvz
 ## This is the Markdown file 
 
 ### Luke i am your father
+
 Resources for the workshop on dynamic documents at Universidad del Rosario
 
 ---
