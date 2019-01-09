@@ -1,6 +1,6 @@
 # Experimetrics BITSS Workshop
 
-## This is the Markdown dile 
+## This is the Markdown file 
 Resources for the workshop on dynamic documents at Universidad del Rosario
 
 ---
