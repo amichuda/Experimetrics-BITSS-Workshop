@@ -2,6 +2,7 @@
 Resources for the workshop on dynamic documents at Universidad del Rosario
 
 q;jfhsdjkfdkdglsd
+sadlydfsdfdfg
 ---
 
 Please check back often for new and updated materials
