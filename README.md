@@ -1,6 +1,6 @@
 # Experimetrics BITSS Workshop
 
-## THIS IS MY NEW README, ITS BETTER THAN YOURS
+## THIS IS MY TRIAL README, I WANT TO LEARN HOW TO BRANCH
 
 Resources for the workshop on dynamic documents at Universidad del Rosario
 
