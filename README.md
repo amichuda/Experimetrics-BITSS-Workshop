@@ -1,6 +1,7 @@
 # Experimetrics BITSS Workshop
 Resources for the workshop on dynamic documents at Universidad del Rosario
 
+q;jfhsdjkfdkdglsd
 ---
 
 Please check back often for new and updated materials
